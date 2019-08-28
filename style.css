@@ -1,0 +1,19 @@
+.navbar {
+    padding: 10px;
+    background: #fff;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.header h1{
+    padding: 20px;
+    background: #5191fd;
+    border-radius: 3px
+}
