@@ -10,10 +10,51 @@
     margin-left: 10px;
     cursor: pointer;
     border-radius: 3px;
+    font-size: 18px;
 }
 
 .header h1{
     padding: 20px;
     background: #5191fd;
-    border-radius: 3px
+    border-radius: 3px;
+    font-size: 18px;
+}
+
+#main {
+    background-color: #D3D3D3;
+}
+
+#Lat_vs_Temp-image,
+.row {
+    padding: 20px;
+    float: left;
+
+}
+
+#Lat_vs_Temp-image{
+    width: 350px;
+    height: 300px;
+    margin-right: 20px;
+}
+
+#h1 {
+    padding: 20px;
+    border-radius: 3px;
+    color: #5191fd;
+}
+
+#LatvsTemp_2 {
+    width: 150px;
+    height: 100px;
+}
+
+#LatvsHumid_home{
+    width: 150px;
+    height: 100px;
+}
+
+#LatvsCloud_home{
+    width: 150px;
+    height: 100px;
+    padding: 10;
 }
